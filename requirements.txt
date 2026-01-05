@@ -25,10 +25,7 @@ kiwisolver==1.4.9
 matplotlib==3.10.6
 matplotlib-inline==0.1.7
 mediapipe==0.10.21
-mkl-fft==1.3.8
-mkl-random==1.2.4
 numpy==1.26.4
-mkl-service==2.4.0
 ml_dtypes==0.5.3
 moviepy==2.2.1
 narwhals==2.3.0
