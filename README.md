@@ -1,7 +1,7 @@
 ![Demo_1](assets/screenshot_example_2.png)
 
 
-# Computer Vision for Runner's
+# Computer Vision for Runners
 
 The project uses MediaPipe’s Pose model to detect 2D body landmarks from video or webcam it then computes basic joint angles, and provides interactive visualization and analysis of the motion.
 
